@@ -1,0 +1,162 @@
+{
+  "main": {
+    "name": "Kaustubh Deshpande",
+    "occupation": "Student",
+    "description": "Freelance Software Developer | Experience building apps in Python, React, Typescript | Full Stack Engineer | Machine Learning Enthusiast",
+    "image": "IG_Kaustubh.jpg",
+    "bio": "Hi, I'm Kaustubh. I'm a FullStack developer / Freelancer. Currently I'm in my final year engineering, and I'm open to work opportunities. Feel free to contact me for a freelance project or a full time offer. ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "kaustubh285@gmail.com",
+    "phone": "+91 9619809793",
+    "address": {
+      "street": "704 Maitri Tower, Louiswadi",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400604"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kaustubh.deshpande.9843/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kaustubh285/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kaustubh285/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/kaustubh285",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "WEB : HTML, CSS, Styled-Components, Bootstrap, Material UI, React JS, Node JS, Express, Django, Flask, Jinja, MySQL, PostgreSQL, SQLite3, MongoDB , Moment JS, PWA \n LANGUAGES : Python, C, Javascript Typescript \n MISC : Git , MJML, Falcon, Raspberry Pi, Arduino, NodeMCU, AWS, Firebase",
+    "education": [
+      {
+        "school": "Mumbai University",
+        "degree": "Bachelor's in Engineering",
+        "graduated": "2020",
+        "description": "Information Technology"
+      }
+    ],
+    "work": [
+      {
+        "company": "Mirraw Online Services LTD",
+        "title": "Software Engineering Intern",
+        "years": "December 2019 - Feburary 2020   &&   June 2019 - July 2020",
+        "description": "Single-handedly built and deployed a dynamic and responsive emailing micro-service Integrated ThirdWatch (a fraud prevention engine) with the current system"
+      },
+      {
+        "company": "Studio23Architects",
+        "title": "Freelancer",
+        "years": "April 2020 - Present",
+        "description": "Teaching ReactJS to thousands of students."
+      },
+      {
+        "company": "The Souled Store",
+        "title": "Software Engineering Intern",
+        "years": "June 2019 - August 2019",
+        "description": "Completed a solo project for a responsive emailing micro-service"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Material-UI",
+        "level": "60%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "95%"
+      },
+      {
+        "name": "MySql",
+        "level": "65%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "65%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix UX/UI Clone built with ReactJS",
+        "image": "Project-Netflix.png",
+        "url": "https://Netflix.deshpande.page"
+      },
+      {
+        "title": "Hulu Clone",
+        "category": "Hulu UX/UI Clone built with ReactJS",
+        "image": "Project-Hulu.png",
+        "url": "https://Hulu.deshpande.png"
+      },
+      {
+        "title": "Studio23Architects.in",
+        "category": "A website built and deployed from scratch for a Mumbai based company",
+        "image": "Project-Studio.png",
+        "url": "https://Studio23Architects.in"
+      },
+      {
+        "title": "Baymax",
+        "category": "A personal heathcare companion",
+        "image": "Project-Baymax.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Google Clone",
+        "category": "Google Clone built with ReactJS",
+        "image": "Project-Google.png",
+        "url": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
