@@ -14,8 +14,8 @@
       "state": "Maharashtra",
       "zip": "400604"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://www.linkedin.com/in/kaustubh285/",
+    "resumedownload": "https://www.linkedin.com/in/kaustubh285/",
     "social": [
       {
         "name": "facebook",
@@ -72,19 +72,23 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "85%"
-      },
-      {
-        "name": "Python",
         "level": "80%"
       },
       {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
         "name": "Material-UI",
-        "level": "60%"
+        "level": "40%"
       },
       {
         "name": "Bootstrap",
         "level": "95%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "45%"
       },
       {
         "name": "MySql",
@@ -92,24 +96,20 @@
       },
       {
         "name": "PostgreSQL",
-        "level": "65%"
-      },
-      {
-        "name": "CSS",
-        "level": "85%"
+        "level": "60%"
       },
       {
         "name": "Git",
         "level": "70%"
       },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
 
       {
         "name": "HTML5",
         "level": "90%"
-      },
-      {
-        "name": "NodeJS",
-        "level": "60%"
       }
     ]
   },

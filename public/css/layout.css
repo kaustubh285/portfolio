@@ -77,7 +77,7 @@ header .banner-text h3 {
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-  color: #fff;
+  color: #e19a3d;
 }
 header .banner-text hr {
   width: 60%;
@@ -99,10 +99,10 @@ header .social li {
   padding: 0;
 }
 header .social li a {
-  color: #fff;
+  color: #e19a3d;
 }
 header .social li a:hover {
-  color: #e19a3d;
+  color: #fff;
 }
 
 /* scrolldown link */
@@ -197,7 +197,7 @@ ul#nav li a:active {
   background-color: transparent !important;
 }
 ul#nav li.current a {
-  color: #f06000;
+  color: #e19a3d;
 }
 
 /* ------------------------------------------------------------------ */
@@ -342,7 +342,7 @@ ul#nav li.current a {
 }
 .bars li em {
   font: 15px "opensans-bold", sans-serif;
-  color: #e19a3d;
+  color: #ce9347;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: normal;
@@ -1096,7 +1096,7 @@ footer .social-links li {
   margin: 0;
   padding: 0;
   margin-left: 42px;
-  color: #f06000;
+  color: #e19a3d;
 }
 
 footer .social-links li:first-child {
