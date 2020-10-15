@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Kaustubh Deshpande",
-    "occupation": "Student",
+    "occupation": "Software Engineer",
     "description": "Freelance Software Developer | Experience building apps in Python, React, Typescript | Full Stack Engineer | Machine Learning Enthusiast",
     "image": "IG_Kaustubh.jpg",
     "bio": "Hi, I'm Kaustubh. I'm a FullStack developer / Freelancer. Currently I'm in my final year engineering, and I'm open to work opportunities. Feel free to contact me for a freelance project or a full time offer. ",
@@ -60,7 +60,7 @@
         "company": "Studio23Architects",
         "title": "Freelancer",
         "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "description": "A complete website built and deployed for the company from scratch "
       },
       {
         "company": "The Souled Store",
@@ -72,19 +72,23 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "80%"
+        "level": "75%"
       },
       {
         "name": "Python",
-        "level": "75%"
+        "level": "74%"
       },
       {
         "name": "Material-UI",
         "level": "40%"
       },
       {
+      "name": "Redux",
+      "level": "35%"
+      },
+      {
         "name": "Bootstrap",
-        "level": "95%"
+        "level": "90%"
       },
       {
         "name": "NodeJS",
@@ -116,14 +120,26 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Google Clone",
+        "category": "Google Clone built with ReactJS, Material UI and React Context Api",
+        "image": "Project-Google.png",
+        "url": "https://Google.deshpande.page"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS, Material UI and React Context Api",
+        "image": "Project-Amazon.png",
+        "url": "https://Amazon.deshpande.page"
+      },
+      {
         "title": "Netflix Clone",
-        "category": "Netflix UX/UI Clone built with ReactJS",
+        "category": "Netflix UX/UI Clone built with ReactJS, Material UI and TMDB",
         "image": "Project-Netflix.png",
         "url": "https://Netflix.deshpande.page"
       },
       {
         "title": "Hulu Clone",
-        "category": "Hulu UX/UI Clone built with ReactJS",
+        "category": "Hulu UX/UI Clone built with ReactJS, Material UI and TMBD",
         "image": "Project-Hulu.png",
         "url": "https://Hulu.deshpande.png"
       },
@@ -134,17 +150,30 @@
         "url": "https://Studio23Architects.in"
       },
       {
+        "title": "Airbnb Clone",
+        "category": "Airbnb Clone UI/UX built with ReactJS, Material UI",
+        "image": "Project-Airbnb.png",
+        "url": "https://Airbnb.deshpande.page"
+      },
+      {
+        "title": "Discord Clone",
+        "category": "Discord Clone built with ReactJS, Material UI",
+        "image": "Project-Discord.png",
+        "url": "https://Discord-clone-b97e1.web.app"
+      },
+      {
         "title": "Baymax",
         "category": "A personal heathcare companion",
         "image": "Project-Baymax.jpg",
         "url": "#"
       },
       {
-        "title": "Google Clone",
-        "category": "Google Clone built with ReactJS",
-        "image": "Project-Google.png",
-        "url": "#"
+        "title": "Zoom Clone",
+        "category": "Zoom clone built using Node JS",
+        "image": "Project-Zoom.png",
+        "url": "https://calm-sands-55757.herokuapp.com/"
       }
+      
     ]
   },
   "testimonials": {
